@@ -69,4 +69,4 @@ public class Test {
         System.out.println(s+"的数量"+count+"个");
     }
 }
-![image]（https://github.com/935482855/lllllll/blob/master/1.PNG）
+![image]
