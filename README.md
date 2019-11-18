@@ -1,4 +1,4 @@
-实验目的
+##实验目的
 掌握字符串String及其方法的使用
 掌握异常处理结构
 业务要求
@@ -69,3 +69,4 @@ public class Test {
         System.out.println(s+"的数量"+count+"个");
     }
 }
+![image]https://github.com/935482855/lllllll/blob/master/1.PNG
